@@ -13,5 +13,4 @@ android {
 dependencies {
     implementation 'com.facebook.react:react-native:[0.40,)'
     implementation 'com.urbanairship.android:urbanairship-fcm:9.5.6'
-    implementation 'com.google.firebase:firebase-messaging:17.3.4'
 }
